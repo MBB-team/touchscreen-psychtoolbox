@@ -8,7 +8,8 @@ a module implemented in Matlab Psychtoolbox for interacting with a touchscreen
 
 * `TouchReleaseWait` : equivalent of KbReleaseWait but for touchscreeen
 * `demo_touchscreen` : a low-level demo script to evaluate GetMouseTransient resolution & timing reactivity
-
+* `souris3` : a interactive demo script to evaluate GetMouseTransient resolution & timing reactivity while a Psychtoolbox window open
+* touchscreen_windows_config : a short notic to illustrate windows configuration for complete control of the touchscreen under psychtoolbox
 
 # Licence
 - This is a private module, please do not distribute without noticing the developper.
